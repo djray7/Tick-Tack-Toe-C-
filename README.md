@@ -6,7 +6,7 @@ The program has one class to demonstate how to use classes in C++. The class han
 
 The biggest purpose of this code was to practise using C++. This game is something that isn't so complicated that it takes forever, but also provides enough difficulty to learn the basics of C++.
 
-* [Software Demo Video]: https://youtu.be/vBhrQntwWoY
+* [Software Demo Video](https://youtu.be/vBhrQntwWoY)
 
 # Development Environment
 I used Replit to write the code as for some reason it would not work on my vscode. I had attempted many different download combinations but couldn't get it to work. 
@@ -20,7 +20,6 @@ I used C++, and didn't use any libraries.
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * I'll need to figure out how to use C++ in VScode
 * How to utlize the for loops
 * Restart option for the end of the game
